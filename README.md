@@ -1,7 +1,4 @@
-# make_api_server_with_hapi_01
-make api server with hapi - example 01
-
-hapi / mongoose 를 활용한 rest api server 구축 예제 1입니다.
+#hapi / mongoose 를 활용한 rest api server 구축 예제 1입니다.
 
 간단한 계정의 생성/조회/수정/삭제가 가능합니다.
 
